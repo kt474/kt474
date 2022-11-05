@@ -3,7 +3,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/-Qiskit-6929c4?style=for-the-badge&logoColor=white&logo=qiskit"/>
  </a>
   <a href='https://www.kevintian.me/' target="_blank">
-    <img src='https://custom-icon-badges.demolab.com/badge/-Porfolio-blue?style=for-the-badge&logoColor=white&logo=repo'/>
+    <img src='https://custom-icon-badges.demolab.com/badge/-Portfolio-blue?style=for-the-badge&logoColor=white&logo=repo'/>
   </a>
 
   <a href="https://www.linkedin.com/in/kt474/" target="_blank">
