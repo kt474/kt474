@@ -1,4 +1,4 @@
-<div align="center">
+<div>
  <a href="https://qiskit.org/" target="blank">
   <img src="https://custom-icon-badges.demolab.com/badge/-Qiskit-6929c4?style=for-the-badge&logoColor=white&logo=qiskit"/>
  </a>
@@ -13,6 +13,8 @@
   <a href="https://www.worldcubeassociation.org/persons/2013TIAN01" target="_blank">
     <img src = 'https://custom-icon-badges.demolab.com/badge/-speedcubing-orange?style=for-the-badge&logo=nintendogamecube&logoColor=white'/>
   </a>
- <br/>
-  <img align="center" src = "https://github-readme-stats.vercel.app/api?username=kt474&theme=buefy&show_icons=true&"/>
+ 
+  <br/>
+ <img align="center" src = "https://github-readme-stats.vercel.app/api?username=kt474&theme=buefy&show_icons=true&"/>
  </div>
+   
